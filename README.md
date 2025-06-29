@@ -88,7 +88,3 @@ It helped lay the foundation for future, more advanced ML-based applications.
 
 Thanks for viewing this learning project!
 
-
----
-
-Thanks for viewing this learning project!
